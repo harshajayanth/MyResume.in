@@ -1,0 +1,7 @@
+.bodygrad{
+     background: linear-gradient(to top left, #f6f5f1 0%, #044207 100%);
+ }
+.jumbotron{
+    background-image: url("images/leaves.jpg");
+    background-size: cover;
+}
